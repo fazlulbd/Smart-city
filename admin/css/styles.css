@@ -1,0 +1,63 @@
+.search{
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: 0 4px 16px -8px rgba(0, 0, 0, 0.4);
+    background: #e74c3c;
+   
+}
+.search h2{
+    float: left;
+    margin-top: 0px;
+    font-size: 30px;
+    color:white;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.search input{
+
+    width: 30%;
+    height: 35px;
+    font-size: 20px;
+    float: left;
+    
+}
+.search button{
+    width: 100px;
+    border-radius: 4px;
+    height: 30px;
+    background: green;
+    font-size: 20px;
+   
+}
+
+.contant{
+    
+    padding: 0;
+    border: 2px solid rebeccapurple;
+    width: 1200px;
+    margin: 5px auto;
+}
+.reg{
+    font-size: 30px;
+    text-align: center;
+    margin: 30px 20px 10px 20px ;
+}
+.name{
+    font-size: 20px;
+    padding: 10px;
+   
+}
+.names{
+   
+    padding: 5px;
+    padding-right: 100px;
+    border: 2px solid black;
+    box-sizing: border-box;
+   width: 1000px;
+}
+.from{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
